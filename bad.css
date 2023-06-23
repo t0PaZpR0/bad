@@ -1,9 +1,7 @@
 /**
-* @name NotAnotherAnimeTheme
-* @author puckzxz#2080
-* @version 3.2
-* @description An easily customizable and automatically updating theme
-* @invite FdZhbjY
+* @name badcss
+* @author mdzy
+* @version 1.1
 * @source https://github.com/puckzxz/NotAnotherAnimeTheme
 * @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
 */
@@ -36,7 +34,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://i.ibb.co/zSBXRHy/hsr.jpg);
 
   /*
     Change your friends icon image position
